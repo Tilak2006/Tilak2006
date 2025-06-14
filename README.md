@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tilak Jain</h1>
 <h3 align="center">A passionate software developer exploring Java and Spring Boot for scalable backend systems. I enjoy solving real-world problems, building full-stack projects with React and MySQL, and diving into System Design concepts.</h3>
 
-- 🌱 I’m currently learning **Go**
+- I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tilak-jain-521913328/](https://www.linkedin.com/in/tilak-jain-521913328/)
+- I regularly write articles on [https://www.linkedin.com/in/tilak-jain-521913328/](https://www.linkedin.com/in/tilak-jain-521913328/)
 
-- 💬 Ask me about **JavaScript, React, Java, Spring boot, C++**
+- Ask me about **JavaScript, React, Java, Spring boot, C++**
 
-- 📫 How to reach me **tilakj0108@gmail.com**
+- How to reach me **tilakj0108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
