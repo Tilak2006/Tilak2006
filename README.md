@@ -4,7 +4,7 @@
 
 ---
 
-Founder of **AMS** — a math-first contest circuit for quant talent. Round 1 drew 600+ participants across IITs, IISc, BITS, and UIUC. Six correct solutions on the hardest problem out of 200+. Firm partnerships active with QRT and Alphagrep.
+Founder of **AMS** — a math-first contest circuit for quant talent. Round 1 drew 600+ participants across IITs, IISc, BITS, and UIUC. 
 
 Building at the intersection of low-latency infrastructure and quantitative finance.
 
