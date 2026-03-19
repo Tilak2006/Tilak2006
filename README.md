@@ -27,7 +27,7 @@ Building at the intersection of low-latency infrastructure and quantitative fina
 **Order Book Matching Engine** · C++23  
 Price-time priority · 8M+ orders/sec · sub-250ns p99 · O(1) cancel via dual iterator index · asymmetric bid/ask with opposing comparators · benchmarked across 500K mixed ops at -O3
 
-**HFT Spoofing Detection Pipeline** · C++ · SNN  
+**HFT Spoofing Detection Pipeline** · C++ · SNN · Ongoing Research Paper
 Kernel-bypass UDP ingest · SPSC ring buffer · OFI via incremental delta · Welford rolling volatility · Spiking Neural Network with LIF neurons and surrogate gradient training · LOBSTER dataset · targeting arXiv preprint
 
 **Kernel-Level Network & Process Isolator** · Go · C · eBPF  
@@ -51,4 +51,4 @@ LSM hook for process interception · TC classifiers for egress filtering · lock
 
 ---
 
-[LinkedIn](https://linkedin.com/in/tilak-jain-521913328) · [Codeforces](https://codeforces.com/profile/Tilak2006) · [GitHub](https://github.com/Tilak2006) · [AMS](https://amsociety.in)
+[LinkedIn](https://linkedin.com/in/tilak-jain-521913328) · [Codeforces](https://codeforces.com/profile/tee_01) · [GitHub](https://github.com/Tilak2006) · [AMS](https://amsociety.in)
