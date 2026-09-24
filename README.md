@@ -1,5 +1,5 @@
 # Tilak Jain
-Third-year · Information Technology · Mumbai · [amsociety.in](https://amsociety.in) · partnership@amsociety.in
+Third-year · Information Technology · Mumbai · [amshq.in](https://amshq.in) · team@amshq.in
 
 Founder of **AMS** — a math-first contest circuit for quant talent. Building the infrastructure for finding talent in quantitative finance.
 
